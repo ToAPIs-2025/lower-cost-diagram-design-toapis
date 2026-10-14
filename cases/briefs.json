@@ -1,0 +1,29 @@
+[
+  {
+    "id": "01-async",
+    "prompt": "An editorial technical process diagram on warm ivory paper. Five generous outlined rectangles in a horizontal row, connected by thin right-pointing arrows. Exact short English labels: REQUEST, TASK ID, POLL, IMAGE URL, PNG. Small orange accent only on TASK ID. Flat vector-like illustration, perfectly readable typography, no shadows, no 3D, no watermark. Wide horizontal composition.",
+    "size": "16:9",
+    "model": "gpt-image-2-vip",
+    "quality": "low",
+    "resolution": "1K",
+    "n": 1
+  },
+  {
+    "id": "02-reference",
+    "prompt": "An editorial technical process diagram on warm ivory paper. Four generous outlined rectangles in a horizontal row, connected by thin right-pointing arrows. Exact short English labels: SOURCE PNG, UPLOAD URL, GENERATE, SAVE PNG. Small orange accent only on UPLOAD URL. Flat vector-like illustration, simple typography, no shadows, no 3D, no watermark. Wide horizontal composition.",
+    "size": "16:9",
+    "model": "gpt-image-2-vip",
+    "quality": "low",
+    "resolution": "1K",
+    "n": 1
+  },
+  {
+    "id": "03-resume",
+    "prompt": "An editorial technical process diagram on warm ivory paper. A left node labelled TASK ID connects to QUERY then STATUS, with two downward branches: COMPLETED leads to SAVE PNG; PENDING leads back to QUERY. Small orange accent on TASK ID only. Flat vector-like illustration, simple readable short English text, no shadows, no 3D, no watermark. Wide horizontal composition.",
+    "size": "16:9",
+    "model": "gpt-image-2-vip",
+    "quality": "low",
+    "resolution": "1K",
+    "n": 1
+  }
+]

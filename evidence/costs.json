@@ -1,0 +1,88 @@
+{
+  "date": "2026-10-14",
+  "completed_images": 3,
+  "quoted_total_usd": "0.0057",
+  "actual_total_usd": null,
+  "actual_credits": null,
+  "billing_source": "API billing is null; account owner reconciliation pending",
+  "runs": [
+    {
+      "case_id": "01-async",
+      "date": "2026-10-14",
+      "task_id": "tsk_img_01M4W6G5B47JCCNJNCYJ76X8EB",
+      "request": {
+        "model": "gpt-image-2-vip",
+        "prompt": "An editorial technical process diagram on warm ivory paper. Five generous outlined rectangles in a horizontal row, connected by thin right-pointing arrows. Exact short English labels: REQUEST, TASK ID, POLL, IMAGE URL, PNG. Small orange accent only on TASK ID. Flat vector-like illustration, perfectly readable typography, no shadows, no 3D, no watermark. Wide horizontal composition.",
+        "n": 1,
+        "size": "16:9",
+        "resolution": "1K",
+        "quality": "low"
+      },
+      "status": "completed",
+      "billing": null,
+      "actual_cost_usd": null,
+      "unit_quote_usd": "0.0019",
+      "sha256": "e1c76a189aa223431e7c6e6789cdd5e68fd763d9d3386a052d35bb8ea4d37272",
+      "elapsed_seconds": 99.01,
+      "scope": "Local editable HTML/SVG API diagrams plus independently tested ToAPIs PNG illustrations. PNGs are model outputs; HTML/SVG is authored in code. Agent-host execution was not validated.",
+      "upstream_repo": "cathrynlavery/diagram-design",
+      "upstream_sha": "11b08eade8049c441ed3df1895e3b527c26c0fbe",
+      "pixels": [
+        1536,
+        864
+      ]
+    },
+    {
+      "case_id": "02-reference",
+      "date": "2026-10-14",
+      "task_id": "tsk_img_01M4W6K61RVQ3F1HF421XGR49V",
+      "request": {
+        "model": "gpt-image-2-vip",
+        "prompt": "An editorial technical process diagram on warm ivory paper. Four generous outlined rectangles in a horizontal row, connected by thin right-pointing arrows. Exact short English labels: SOURCE PNG, UPLOAD URL, GENERATE, SAVE PNG. Small orange accent only on UPLOAD URL. Flat vector-like illustration, simple typography, no shadows, no 3D, no watermark. Wide horizontal composition.",
+        "n": 1,
+        "size": "16:9",
+        "resolution": "1K",
+        "quality": "low"
+      },
+      "status": "completed",
+      "billing": null,
+      "actual_cost_usd": null,
+      "unit_quote_usd": "0.0019",
+      "sha256": "acd081dc187a520da92c8a8504ce348451e888b11eb74e93e3948a4d8c7ed771",
+      "elapsed_seconds": 25.02,
+      "scope": "Local editable HTML/SVG API diagrams plus independently tested ToAPIs PNG illustrations. PNGs are model outputs; HTML/SVG is authored in code. Agent-host execution was not validated.",
+      "upstream_repo": "cathrynlavery/diagram-design",
+      "upstream_sha": "11b08eade8049c441ed3df1895e3b527c26c0fbe",
+      "pixels": [
+        1536,
+        864
+      ]
+    },
+    {
+      "case_id": "03-resume",
+      "date": "2026-10-14",
+      "task_id": "tsk_img_01M4W6KYGVHCQDQXPJXWHAQG5C",
+      "request": {
+        "model": "gpt-image-2-vip",
+        "prompt": "An editorial technical process diagram on warm ivory paper. A left node labelled TASK ID connects to QUERY then STATUS, with two downward branches: COMPLETED leads to SAVE PNG; PENDING leads back to QUERY. Small orange accent on TASK ID only. Flat vector-like illustration, simple readable short English text, no shadows, no 3D, no watermark. Wide horizontal composition.",
+        "n": 1,
+        "size": "16:9",
+        "resolution": "1K",
+        "quality": "low"
+      },
+      "status": "completed",
+      "billing": null,
+      "actual_cost_usd": null,
+      "unit_quote_usd": "0.0019",
+      "sha256": "df64113130c07c4ebd6505395c9e23df05c5926aa4bedb64a118bbe2b81fdea1",
+      "elapsed_seconds": 49.16,
+      "scope": "Local editable HTML/SVG API diagrams plus independently tested ToAPIs PNG illustrations. PNGs are model outputs; HTML/SVG is authored in code. Agent-host execution was not validated.",
+      "upstream_repo": "cathrynlavery/diagram-design",
+      "upstream_sha": "11b08eade8049c441ed3df1895e3b527c26c0fbe",
+      "pixels": [
+        1536,
+        864
+      ]
+    }
+  ]
+}
