@@ -2,7 +2,7 @@
 
 [中文](README_zh-CN.md)
 
-ToAPIs `gpt-image-2-vip / low / 1K / n=1` for Diagram Design workflows. 3 completed images, **$0.0057 quoted total**; actual charge pending account reconciliation.
+ToAPIs `gpt-image-2-vip / low / 1K / n=1` for Diagram Design workflows. 3 image-2(vip) images: **$0.0057 actually charged**.
 
 Local editable HTML/SVG API diagrams plus independently tested ToAPIs PNG illustrations. PNGs are model outputs; HTML/SVG is authored in code. Agent-host execution was not validated.
 
@@ -30,7 +30,7 @@ Three [editable HTML/SVG diagrams](diagrams/) are locally authored with no addit
 |---|---|---|
 | `gpt-image-2-vip` | `low / 1K / n=1` | **$0.0019** |
 
-3 completed images, **$0.0057 quoted total**; actual charge pending account reconciliation。
+3 image-2(vip) images: **$0.0057 actually charged**。
 
 [API pricing snapshot](evidence/pricing.json) · [Cost record](evidence/costs.json) · [Original requests](evidence/runs.json)
 
